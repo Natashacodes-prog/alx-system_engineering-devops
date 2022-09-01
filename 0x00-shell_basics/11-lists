@@ -1,4 +1,2 @@
 #!/bin/bash
-Is -al .
-ls -al ../
-ls -al /boot
+Is -al . .. /boot
